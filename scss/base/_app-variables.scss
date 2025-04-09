@@ -341,7 +341,7 @@ body {
   --nav-item-color: var(--text-muted);
   --nav-item-color-hover: var(--text-on-accent);
   --nav-item-color-active: var(--text-on-accent);
-  --nav-item-color-selected: var(--text-on-accent);
+  --nav-item-color-selected: rgb(var(--text-on-accent));
   --nav-item-color-highlighted: var(--text-accent-hover);
   --nav-item-background-hover: var(--background-modifier-hover);
   --nav-item-background-active: var(--background-modifier-hover);
